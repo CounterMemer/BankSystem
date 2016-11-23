@@ -10,7 +10,7 @@ namespace DataAccess.Service
         public void AuthenticateUser(string username, string password)
         {
             var userRepo = RepositoryFactory.GetUsersRepository();
-            LoggedUser = userRepo.GetByUsernameAndPassowrd(username, password);
+            LoggedUser = userRepo.GetByUsernameAndPassword(username, password);
         }
     }
 }
