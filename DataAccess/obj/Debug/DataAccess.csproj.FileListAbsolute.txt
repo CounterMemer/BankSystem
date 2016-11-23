@@ -55,3 +55,13 @@ C:\Users\koko\documents\visual studio 2015\Projects\BankSystem\DataAccess\bin\De
 C:\Users\koko\documents\visual studio 2015\Projects\BankSystem\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\koko\documents\visual studio 2015\Projects\BankSystem\DataAccess\bin\Debug\EntityFramework.xml
 C:\Users\koko\documents\visual studio 2015\Projects\BankSystem\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\stoqn\Desktop\BankSystem\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\stoqn\Desktop\BankSystem\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\stoqn\Desktop\BankSystem\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\stoqn\Desktop\BankSystem\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\stoqn\Desktop\BankSystem\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\stoqn\Desktop\BankSystem\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\stoqn\Desktop\BankSystem\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\stoqn\Desktop\BankSystem\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\stoqn\Desktop\BankSystem\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\stoqn\Desktop\BankSystem\DataAccess\bin\Debug\EntityFramework.SqlServer.xml

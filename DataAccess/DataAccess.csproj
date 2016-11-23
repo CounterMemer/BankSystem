@@ -51,6 +51,8 @@
     <Compile Include="Entity\BaseEntity.cs" />
     <Compile Include="Entity\Branche.cs" />
     <Compile Include="Entity\Card.cs" />
+    <Compile Include="Entity\Contact.cs" />
+    <Compile Include="Entity\Phone.cs" />
     <Compile Include="Entity\Transaction.cs" />
     <Compile Include="Entity\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -59,6 +61,8 @@
     <Compile Include="Repository\BaseRepository.cs" />
     <Compile Include="Repository\BranchRepository.cs" />
     <Compile Include="Repository\CardRepository.cs" />
+    <Compile Include="Repository\ContactsRepository.cs" />
+    <Compile Include="Repository\PhonesRepository.cs" />
     <Compile Include="Repository\RepositoryFactory.cs" />
     <Compile Include="Repository\TransactionRepository.cs" />
     <Compile Include="Repository\UsersRepository.cs" />
