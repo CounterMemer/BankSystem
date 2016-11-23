@@ -1,0 +1,57 @@
+C:\Users\nikol_000\Dropbox\FMI\2013 Cources\CSharpAndMicrosoft.NET\Examples\week6\Visual\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\nikol_000\Dropbox\FMI\2013 Cources\CSharpAndMicrosoft.NET\Examples\week6\Visual\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\nikol_000\Dropbox\FMI\2013 Cources\CSharpAndMicrosoft.NET\Examples\week6\Visual\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\nikol_000\Dropbox\FMI\2013 Cources\CSharpAndMicrosoft.NET\Examples\week6\Visual\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\nikol_000\Dropbox\FMI\2013 Cources\CSharpAndMicrosoft.NET\Examples\week6\Visual\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\nikol_000\Desktop\а\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\nikol_000\Desktop\а\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\nikol_000\Desktop\а\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\nikol_000\Desktop\а\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\nikol_000\Desktop\а\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\nikol_000\Desktop\PhoneBook\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\nikol_000\Desktop\PhoneBook\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\nikol_000\Desktop\PhoneBook\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\nikol_000\Desktop\PhoneBook\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\nikol_000\Desktop\WeP\PhoneBook\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\nikol_000\Desktop\WeP\PhoneBook\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\nikol_000\Desktop\WeP\PhoneBook\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\nikol_000\Desktop\WeP\PhoneBook\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\fmi\Desktop\nikiv\PhoneBook_ViewData\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\fmi\Desktop\nikiv\PhoneBook_ViewData\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\fmi\Desktop\nikiv\PhoneBook_ViewData\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\fmi\Desktop\nikiv\PhoneBook_ViewData\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\fmi\Desktop\nikiv\PhoneBook_ViewData\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\fmi\Desktop\nikiv\PhoneBook_ViewData\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\fmi\Desktop\nikiv\PhoneBook_ViewData\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fmi\Desktop\nikiv\PhoneBook_ViewData\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\fmi\Desktop\nikiv\PhoneBook_ViewData\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fmi\Desktop\PhoneBook_ViewData\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\fmi\Desktop\PhoneBook_ViewData\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\fmi\Desktop\PhoneBook_ViewData\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\fmi\Desktop\PhoneBook_ViewData\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\fmi\Desktop\PhoneBook_ViewData\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fmi\Desktop\PhoneBook_ViewData\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\fmi\Desktop\PhoneBook_ViewData\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fmi\Desktop\PhoneBook_ViewData\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\fmi\Desktop\PhoneBook_ViewData\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\fmi\Desktop\PhoneBook_ViewData\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\koko\Desktop\PhoneBook\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\koko\Desktop\PhoneBook\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\koko\Desktop\PhoneBook\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\koko\Desktop\PhoneBook\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\koko\Desktop\PhoneBook\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\koko\Desktop\PhoneBook\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\koko\Desktop\PhoneBook\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\koko\Desktop\PhoneBook\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\koko\Desktop\PhoneBook\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\koko\Desktop\PhoneBook\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\koko\documents\visual studio 2015\Projects\BankSystem\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\koko\documents\visual studio 2015\Projects\BankSystem\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\koko\documents\visual studio 2015\Projects\BankSystem\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\koko\documents\visual studio 2015\Projects\BankSystem\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\koko\documents\visual studio 2015\Projects\BankSystem\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\koko\documents\visual studio 2015\Projects\BankSystem\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\koko\documents\visual studio 2015\Projects\BankSystem\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\koko\documents\visual studio 2015\Projects\BankSystem\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\koko\documents\visual studio 2015\Projects\BankSystem\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\koko\documents\visual studio 2015\Projects\BankSystem\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
